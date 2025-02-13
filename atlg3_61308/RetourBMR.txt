@@ -1,0 +1,7 @@
+Tu aurais pu mettre un filtre pour pas que l'on puisse écrire des charactères autres que des digits.
+
+D'ailleurs si je mets du texte ça n'affiche rien.
+
+Bien vu le setAll, bonne division en classe.
+
+
