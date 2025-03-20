@@ -1,3 +1,0 @@
-Tu aurais pu faire un package pour les commandes.
-
-Sinon le projet est pas mal.
